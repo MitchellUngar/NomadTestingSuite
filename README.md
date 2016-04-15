@@ -5,13 +5,14 @@ tests on the Nomad site on Alpha. That way non-programmers can blackbox the site
 What is blackboxing you may be asking?
 Blackboxing is when someone tests something without going into the code. It is
 everything they need right in front of them. Like a Thermostat and clicking the
-buttons on it instead of plugging your laptop in to see what the functions are. 
+buttons on it instead of plugging your laptop in to see what the functions are.
 
 ## Getting Started
 1. Download Eclipse For Java Applications
 1. Clone Git Repository to Computer
 1. Make sure all Jars are on the file path
 1. Try Running the Application GUI
+
 ## Selenium Web Driver
 Selenium Web Driver is a download as a JAR and a IDE that is integrated with Mozilla.
 Mostly Mozilla services we are going to use. The IDE is pretty simple to use, just open
